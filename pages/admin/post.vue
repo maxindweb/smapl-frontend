@@ -1,6 +1,8 @@
 <template>
     <div>
-        <h1>post</h1>
+        <v-container>
+            <h1>Post</h1>
+        </v-container>
     </div>
 </template>
 <script>
